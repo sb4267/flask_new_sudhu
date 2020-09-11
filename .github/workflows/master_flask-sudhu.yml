@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'flask-sudhu'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_abe29f42717c439eb7eea508f93fc525 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_823c53f9e79842ac873bf508cae7de6e }}
